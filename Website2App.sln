@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopWebsite", "DesktopWebsite\DesktopWebsite.csproj", "{F6CF0B4C-0ABF-4A34-BF4B-81CF940C174A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website2App", "Website2App\Website2App.csproj", "{F6CF0B4C-0ABF-4A34-BF4B-81CF940C174A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
