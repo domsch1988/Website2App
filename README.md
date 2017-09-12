@@ -12,7 +12,7 @@ Currently, you need to set the Icon for the shortcut yourself.
 
 If you need specific scripting or you get errors on loading the website, you need to add the following into the Registry:
 HKLM\SOFTWARE\WOW6432Node\Microsoft\Internet Explorer\Main\FeaterControl\FEATURE_BROWSER_EMULATION\
-- Create a new DWARE entry
+- Create a new DWORD entry
 - Name is "Website2App.exe"
 - Value is "11001" Decimal
 
