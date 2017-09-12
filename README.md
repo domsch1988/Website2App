@@ -17,3 +17,6 @@ HKLM\SOFTWARE\WOW6432Node\Microsoft\Internet Explorer\Main\FeaterControl\FEATURE
 - Value is "11001" Decimal
 
 This ensures the App is using IE11 as a Browser engine. If not present, it defaults to some older version which doesn't support some kinds of scripting or other features.
+
+
+Please keep in mind, that this is NOT a full on Browser. There is no Adressbar, no navigation. The Website needs to provide everything you need to move arround. Also, currently back and forward mouse buttons don't work. I'll implement that at a later date.
