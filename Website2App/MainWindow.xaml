@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="900" Width="1600">
     <Grid>
-        <WebBrowser x:Name="BRMain" HorizontalAlignment="Center" VerticalAlignment="Center" Source="https://myfaq.haubnerdc.com/" AllowDrop="True" Focusable="True" IsManipulationEnabled="True"/>
+        <WebBrowser x:Name="BRMain" HorizontalAlignment="Center" VerticalAlignment="Center" AllowDrop="True" Focusable="True" IsManipulationEnabled="True"/>
 
     </Grid>
 </Window>
